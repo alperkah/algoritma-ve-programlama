@@ -1,0 +1,4 @@
+1 Hanifi 2500,00
+2 Sheyl 3500,00
+3 Alper 5000,00
+25 Mehmet 5400,00
